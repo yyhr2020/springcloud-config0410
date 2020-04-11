@@ -1,1 +1,2 @@
-﻿url=http://dev.configcenter.com
+﻿config:
+   url: http://dev.configcenter.com
