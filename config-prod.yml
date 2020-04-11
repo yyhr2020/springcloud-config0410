@@ -1,1 +1,2 @@
-url=http://prod.configcenter.com
+config:
+   url: http://prod.configcenter.com
